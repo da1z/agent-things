@@ -15,4 +15,5 @@ npx -y skills add https://github.com/da1z/agent-things
 | Skill                                                          | Description                                                           |
 | -------------------------------------------------------------- | --------------------------------------------------------------------- |
 | [hono](./skills/hono/SKILL.md)                                 | How to access Hono framework documentation                            |
+| [compound-knowledge](./skills/compound-knowledge/SKILL.md)     | Save team knowledge notes — errors, patterns, decisions — so every solved problem makes future work easier |
 | [perfect-landing-page](./skills/perfect-landing-page/SKILL.md) | Build high-converting landing pages with a simple 6-section framework |
