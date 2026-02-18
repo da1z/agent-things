@@ -1,14 +1,13 @@
 ---
 name: compound-knowledge
-description: Save team knowledge notes into ./knowledge/ with date-prefixed filenames. Implements the Compound step from compound engineering — every solved problem, discovered pattern, or key decision becomes searchable knowledge that makes future work easier. Use when the user wants to capture gotchas, errors, build issues, solutions, patterns, or decisions for future reference.
+description: Save team knowledge notes into ./knowledge/ with date-prefixed filenames. Every solved problem, discovered pattern, or key decision becomes searchable knowledge that makes future work easier. Use when the user wants to capture gotchas, errors, build issues, solutions, patterns, or decisions for future reference.
 ---
 
 # Save Knowledge
 
-This skill implements the **Compound step** from compound engineering: the
-practice of making each unit of work teach the system something so subsequent
-work gets easier, not harder. Bug fixes eliminate future bug categories.
-Patterns become tools. Decisions become searchable context.
+Each unit of work should teach the system something so subsequent work gets
+easier, not harder. Bug fixes eliminate future bug categories. Patterns become
+tools. Decisions become searchable context.
 
 ## Quick Start
 
